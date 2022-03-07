@@ -1,3 +1,5 @@
+##Single Page Website
+
 A single page website built using HTML, CSS and JavaScript
 
 IDE used: VS Code
